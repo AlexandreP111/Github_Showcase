@@ -1,7 +1,7 @@
 # About me
 Alexandre Pereira
 
-You can contact me using the following email address: alexandrepereira111bus@gmail.com.
+You can contact me at alexandrepereira111bus@gmail.com.
 
 
 # Github showcase
